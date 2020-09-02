@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "supportportalapp": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "supportportalapp"
+    }
+  },
+  "defaultProject": "supportportalapp",
+  "cli": {
+    "analytics": "4247887c-443d-4dab-be5d-4ee7da3bbc79"
+  }
 }
